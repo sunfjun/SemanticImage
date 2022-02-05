@@ -1,0 +1,16 @@
+PODS:
+  - SemanticImage (0.1.0)
+
+DEPENDENCIES:
+  - SemanticImage (from `../`)
+
+EXTERNAL SOURCES:
+  SemanticImage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SemanticImage: 562968dc88d8a772266c59c5aca459358f203757
+
+PODFILE CHECKSUM: 3e9b5622674fcfd138550d4154af27ff67cac6e8
+
+COCOAPODS: 1.11.2
